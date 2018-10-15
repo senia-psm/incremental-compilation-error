@@ -1,10 +1,4 @@
 .idea
 .gradle
-build
-classes
-*.log
-*.pid
 *.iml
 target/
-.sbt_completion_cache
-/out/com/
